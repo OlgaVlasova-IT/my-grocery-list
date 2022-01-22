@@ -4,22 +4,17 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("paper-bag_sm.jpg");
+  background-image: url("paper-bag_xs.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
-
-  /* background-color:#E8DED2; */
   color: #5E4894;
-  
-  /*    38A3A5 #ffccdd  #282c34 */
 }
 body{
   color: #2d8659;
 }
 .App-logo {
-  /* height: 40vmin; */
-  /* pointer-events: none; */
+ 
   margin: 60px 0 30px 0;
 }
 .logo{
@@ -51,11 +46,8 @@ ul{
   border-radius: 10px;
   height: 30px;
   width: 70px;
-  /* border-color:#2d8659 ; */
   border-style:solid;
   padding: 3px 3px 3px 3px;
-
-
 }
 
 .btn{
@@ -68,8 +60,7 @@ ul{
   border-radius: 10px;
   height: 30px;
   width: 30px;
-  /* border-color:#2d8659 ; */
-  /* border-style:solid; */border:none;
+ border:none;
   padding: 3px 3px 3px 3px;
 
 
@@ -85,7 +76,6 @@ ul{
   align-items: center;
   margin: 20px 5px 20px 5px;
   background-color: rgb(173, 214, 143, 0.9);
-  /* background-color: #73B543; */
   border-radius: 10px;
   height: 30px;
   width: 40px;
@@ -120,15 +110,10 @@ li{
  width: 270px;
  height: auto;
    text-align: left;
-   /* background-color: #f4c4a4; */
-   /* background-color: rgb(252, 240, 232, 0.8); */
    background-color: rgb(173, 214, 143, 0.75);
    border-radius: 10px;
    border-color: rgb(132, 197, 132);
    font-size: 16px;
-   /* border: solid 2px #f4c4a4; */
-   /* opacity: 0.6; */
-
  }
 .liCont {
 

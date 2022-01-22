@@ -1,7 +1,7 @@
 import veggie from './vegetables.png';
-import fruit from './fruits.png'
-import grains from './grains.png'
-import protein from './protein.png'
+// import fruit from './fruits.png'
+// import grains from './grains.png'
+// import protein from './protein.png'
 import './App.css';
 import List from './List';
 
